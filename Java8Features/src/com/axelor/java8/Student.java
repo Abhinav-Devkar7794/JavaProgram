@@ -10,12 +10,16 @@ public class Student {
 		System.out.println("Abhinav Devkar !!!");
 	}
 	
+	static void display() {
+		System.out.println("Display Method");
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		message();
 		messageName();
+		display();
 	}
 
 }
