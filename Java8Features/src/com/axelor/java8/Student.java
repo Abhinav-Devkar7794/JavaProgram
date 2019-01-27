@@ -18,6 +18,10 @@ public class Student {
 		System.out.println("Be Googler");
 	}
 	
+	static void getGoal() {
+		System.out.println("Hello Java Developer!!!");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -25,6 +29,7 @@ public class Student {
 		messageName();
 		display();
 		displayGoal();
+		getGoal();
 	}
 
 }
