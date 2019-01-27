@@ -6,6 +6,8 @@ public class Friends {
 		// TODO Auto-generated method stub
 
 		System.out.println("Friend Zone !!!!");
+		System.out.println("Biryani !!");
+		
 	}
 
 }
