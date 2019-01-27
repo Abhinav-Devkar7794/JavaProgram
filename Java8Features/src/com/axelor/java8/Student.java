@@ -14,12 +14,17 @@ public class Student {
 		System.out.println("Display Method");
 	}
 	
+	static void displayGoal() {
+		System.out.println("Be Googler");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		message();
 		messageName();
 		display();
+		displayGoal();
 	}
 
 }
