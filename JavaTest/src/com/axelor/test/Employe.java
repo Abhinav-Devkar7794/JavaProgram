@@ -16,6 +16,8 @@ public class Employe {
 		
 		System.out.println("Interner Off !!!");
 		
+		System.out.println("New Add Class Friends !!!");
+		
 	}
 
 }
