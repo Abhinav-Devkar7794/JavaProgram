@@ -10,8 +10,6 @@ public class Friends {
 		System.out.println("pizza !!");
 		
 		System.out.println("Burger !!");
-		
-		System.out.println("Samosaa ");
 	}
 
 }
