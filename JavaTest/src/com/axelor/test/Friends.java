@@ -12,6 +12,10 @@ public class Friends {
 		System.out.println("Burger !!");
 		
 		System.out.println("Samosaa ");
+		
+		System.out.println("Keep Passion !!!");
+		
+		System.out.println("Fight With error ");
 	}
 
 }
