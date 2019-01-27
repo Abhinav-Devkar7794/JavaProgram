@@ -14,6 +14,8 @@ public class Employe {
 		
 		System.out.println("Broweser is close !!!");
 		
+		System.out.println("Interner Off !!!");
+		
 	}
 
 }
